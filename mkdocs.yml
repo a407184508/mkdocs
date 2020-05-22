@@ -20,7 +20,9 @@ nav:
   # name: material
 
 
-theme: mkdocs
+theme: windmill
+  # name: journal
+# mkdocs
   # name: nil
   # # custom_dir: mkdocs_windmill_dark
   # static_templates:
